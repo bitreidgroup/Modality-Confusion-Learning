@@ -1,4 +1,4 @@
-name: mscl
+name: mcl
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - https://mirrors.ustc.edu.cn/anaconda/pkgs/main
@@ -105,5 +105,5 @@ dependencies:
     - traitlets==4.3.3
     - wcwidth==0.2.5
     - werkzeug==0.15.4
-prefix: /home/usr/.conda/envs/mscl
+prefix: /home/usr/.conda/envs/mcl
 
