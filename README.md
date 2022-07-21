@@ -126,3 +126,7 @@ If this repository helps your research, please cite :
 1. Ye, M., Shen, J., Lin, G., Xiang, T., Shao, L., & Hoi, S. C. (2021). Deep learning for person re-identification: A survey and outlook. *IEEE transactions on pattern analysis and machine intelligence*, *44*(6), 2872-2893.
 2. Ye, M., Shen, J., J Crandall, D., Shao, L., & Luo, J. (2020, August). Dynamic dual-attentive aggregation learning for visible-infrared person re-identification. In *European Conference on Computer Vision* (pp. 229-247). Springer, Cham.
 
+###  ✉️ Contact.
+
+If you have some questions, feel free to contact me.
+  yiyuanzhang.ai@gmail.com
