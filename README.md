@@ -15,7 +15,7 @@ Modality Confusion Learning Network (MCLNet) is designed to learn modality-invar
 
 * Create a conda environment and activate the environment.
   
-* `conda env create -f environment.yml`  
+* `conda env create -f environment.yaml`  
   
   `conda activate mcl` 
 
