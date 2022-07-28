@@ -45,13 +45,6 @@ Modality Confusion Learning Network (MCLNet) is designed to learn modality-invar
 
   The identities of cameras will be also stored in ".npy" format.
 
-### 📊 Experimental Results
-
-| Datasets  | Pretained | Rank-1 Accuracy | mAP   |
-| --------- | --------- | --------------- | ----- |
-| SYSU-MM01 | ImageNet  | 65.40           | 61.98 |
-| RegDB     | ImageNet  | 80.31           | 73.07 |
-
 ### ⏳  Training
 
 *You may need manually define the data path first.*
